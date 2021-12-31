@@ -9879,3 +9879,33 @@ textarea.form-control {
         width: 100%;
       }
     }
+
+    /* #fh5co-started {
+      position: relative;
+    } */
+    
+    #fh5co-started .overlay {
+      /* position: absolute; */
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.4);
+    }
+    
+    #fh5co-started .fh5co-heading h2 {
+      color: #fff;
+    }
+    
+    #fh5co-started .fh5co-heading p {
+      color: rgba(255, 255, 255, 0.5);
+    }
+    
+    #fh5co-started .fh5co-heading {
+      margin-bottom: 30px;
+    }
+    
+    #fh5co-started .fh5co-heading h2 {
+      margin-bottom: 0;
+    }
+    
